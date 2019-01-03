@@ -8,7 +8,7 @@ public class Main {
         System.out.println("\"Enter a word to check if it is Palindrome: ");
         Scanner scanner = new Scanner(System.in);
 
-        String word = scanner.next();
+        String word = scanner.nextLine();
         word = word.toLowerCase();
 
 //        checkIfPalindrome(word);
