@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/Java-8-Lambda-Basics/Java-8-Lambda-Basics.iml" filepath="$USER_HOME$/Documents/GitHub/Java-8-Lambda-Basics/Java-8-Lambda-Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Palindrome Checker.iml" filepath="$PROJECT_DIR$/Palindrome Checker.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/Java-Brains-Course-API-with-Data/course-api-data.iml" filepath="$USER_HOME$/Documents/GitHub/Java-Brains-Course-API-with-Data/course-api-data.iml" />
     </modules>
   </component>
 </project>
